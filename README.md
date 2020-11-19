@@ -1,4 +1,5 @@
 # ToDoApp
 
 DB Name - ToDoApp
-Run DB Script to create SQL table.
+
+Run db_script.sql to create SQL table.
